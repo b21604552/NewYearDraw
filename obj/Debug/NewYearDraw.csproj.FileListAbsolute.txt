@@ -1,0 +1,7 @@
+C:\Users\EmreHancı\source\repos\NewYearDraw\bin\Debug\NewYearDraw.exe.config
+C:\Users\EmreHancı\source\repos\NewYearDraw\bin\Debug\NewYearDraw.exe
+C:\Users\EmreHancı\source\repos\NewYearDraw\bin\Debug\NewYearDraw.pdb
+C:\Users\EmreHancı\source\repos\NewYearDraw\obj\Debug\NewYearDraw.csprojAssemblyReference.cache
+C:\Users\EmreHancı\source\repos\NewYearDraw\obj\Debug\NewYearDraw.csproj.CoreCompileInputs.cache
+C:\Users\EmreHancı\source\repos\NewYearDraw\obj\Debug\NewYearDraw.exe
+C:\Users\EmreHancı\source\repos\NewYearDraw\obj\Debug\NewYearDraw.pdb
